@@ -2,6 +2,12 @@
 
 I am a software engineer with a focus on backend, resiliance and observability.
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmathieu/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/github)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dmathieu/)
+[![Goodreads](https://img.shields.io/badge/-Goodreads-f2efe7?style=flat&logo=Goodreads&logoColor=black)](https://www.goodreads.com/user/show/48421744-damien)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-f27521?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/122080/damien-mathieu)
+
 Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
 am also a (too infrequent) contributor to Open-Source, and have contributed to
 various projects such as [Ruby on Rails](https://github.com/rails/rails/commits?author=dmathieu) and [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=dmathieu).
@@ -10,9 +16,21 @@ I am writing about [software engineering](https://dmathieu.com), and [brewing be
 
 I work at [Heroku](https://heroku.com), where I am focused on improving observability.
 
-## Find me around
+## Languages and Tools
+<p>
+  <img width="60%" align="right" alt="Damien's github stats" src="https://github-readme-stats.vercel.app/api?username=dmathieu&show_icons=true&hide_border=true&line_height=27&title_color=0070dd&icon_color=ff8000&show_owner=true&include_all_commits=true" />
 
-* [Twitter](https://twitter.com/dmathieu)
-* [GoodReads](https://www.goodreads.com/user/show/48421744-damien)
-* [Stackoverflow](https://stackoverflow.com/users/122080/damien-mathieu)
-* [Linkedin](https://www.linkedin.com/in/dmathieu/)
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+</p>
