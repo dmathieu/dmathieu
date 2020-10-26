@@ -18,8 +18,6 @@ I work at [Heroku](https://heroku.com), where I am focused on improving observab
 
 ## Languages and Tools
 <p>
-  <img width="60%" align="right" alt="Damien's github stats" src="https://github-readme-stats.vercel.app/api?username=dmathieu&show_icons=true&hide_border=true&line_height=27&title_color=0070dd&icon_color=ff8000&show_owner=true&include_all_commits=true" />
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
