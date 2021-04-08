@@ -14,8 +14,6 @@ various projects such as [Ruby on Rails](https://github.com/rails/rails/commits?
 
 I am writing about [software engineering](https://dmathieu.com), and [brewing beer (fr)](https://brewfun.net).
 
-I work at [Heroku](https://heroku.com), where I am focused on improving observability.
-
 ## Languages and Tools
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
@@ -23,7 +21,6 @@ I work at [Heroku](https://heroku.com), where I am focused on improving observab
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
