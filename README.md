@@ -1,6 +1,6 @@
 # Well, Hello There!
 
-I am a software engineer with a focus on backend, resiliance and observability.
+I am a software engineer with a focus on backend, resilience and observability, currently working at @auth0 / @okta.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmathieu/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/github)
@@ -12,7 +12,8 @@ Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
 am also a (too infrequent) contributor to Open-Source, and have contributed to
 various projects such as [Ruby on Rails](https://github.com/rails/rails/commits?author=dmathieu) and [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=dmathieu).
 
-I am writing about [software engineering](https://dmathieu.com), and [brewing beer (fr)](https://brewfun.net).
+I am writing about [software engineering](https://dmathieu.com), and [brewing beer (fr)](https://brewfun.net).  
+I run a side project which displays the [true results of political elections in France](https://vrais-resultats.fr), with absention included.
 
 ## Languages and Tools
 <p>
