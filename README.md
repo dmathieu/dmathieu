@@ -3,8 +3,7 @@
 I am a software engineer with a focus on backend, resilience and observability, currently working at @auth0 / @okta.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmathieu/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/github)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dmathieu/)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/github)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-f2efe7?style=flat&logo=Goodreads&logoColor=black)](https://www.goodreads.com/user/show/48421744-damien)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-f27521?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/122080/damien-mathieu)
 
