@@ -15,16 +15,17 @@ I am writing about [software engineering](https://dmathieu.com), and [brewing be
 
 ## Languages and Tools
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="images/ruby.svg"></code>
+  <code><img width="10%" src="images/golang.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="images/postgresql.svg"></code>
+  <code><img width="10%" src="images/redis.svg"></code>
+  <code><img width="10%" src="images/kafka.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="images/kubernetes.svg"></code>
+  <code><img width="10%" src="images/opentelemetry.svg"></code>
+  <code><img width="10%" src="images/git.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="10%" src="images/aws.svg"></code>
+  <code><img width="10%" src="images/terraform.svg"></code>
 </p>
