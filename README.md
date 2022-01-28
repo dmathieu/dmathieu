@@ -11,7 +11,7 @@ Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
 am also a (too infrequent) contributor to Open-Source, and have contributed to
 various projects such as [Ruby on Rails](https://github.com/rails/rails/commits?author=dmathieu) and [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=dmathieu).
 
-I am writing about [software engineering](https://dmathieu.com), and [brewing beer (fr)](https://brewfun.net).
+I am writing about [software engineering](https://dmathieu.com), and [brewing beer (fr)](https://fermentopia.net).
 
 ## Languages and Tools
 <p>
