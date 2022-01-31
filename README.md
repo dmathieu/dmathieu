@@ -8,8 +8,7 @@ I am a software engineer with a focus on backend, resilience and observability, 
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-f27521?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/122080/damien-mathieu)
 
 Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
-am also a (too infrequent) contributor to Open-Source, and have contributed to
-various projects such as [Ruby on Rails](https://github.com/rails/rails/commits?author=dmathieu) and [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=dmathieu).
+am also a (too infrequent) contributor to Open-Source.
 
 I am writing about [software engineering](https://dmathieu.com), and [food fermentation](https://fermentopia.net) (fr).
 
