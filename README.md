@@ -1,6 +1,6 @@
 # Well, Hello There!
 
-I am a software engineer with a focus on backend, resilience and observability, currently working at @auth0 / @okta.
+I am a software engineer with a focus on backend, resilience and observability, currently working at @elastic.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmathieu/)
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/github)
@@ -8,7 +8,7 @@ I am a software engineer with a focus on backend, resilience and observability, 
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-f27521?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/122080/damien-mathieu)
 
 Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
-am also a (too infrequent) contributor to Open-Source.
+am also a contributor to Open-Source.
 
 I am writing about [software engineering](https://dmathieu.com), and [food fermentation](https://fermentopia.net) (fr).
 
