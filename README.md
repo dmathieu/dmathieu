@@ -10,20 +10,3 @@ Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
 am also a contributor to Open-Source.
 
 I am writing about [software engineering](https://dmathieu.com), and [food fermentation](https://fermentopia.net) (fr).
-
-## Languages and Tools
-<p>
-  <code><img width="10%" src="images/ruby.svg"></code>
-  <code><img width="10%" src="images/golang.svg"></code>
-  <br />
-  <code><img width="10%" src="images/postgresql.svg"></code>
-  <code><img width="10%" src="images/redis.svg"></code>
-  <code><img width="10%" src="images/kafka.svg"></code>
-  <br />
-  <code><img width="10%" src="images/kubernetes.svg"></code>
-  <code><img width="10%" src="images/opentelemetry.svg"></code>
-  <code><img width="10%" src="images/git.svg"></code>
-  <br />
-  <code><img width="10%" src="images/aws.svg"></code>
-  <code><img width="10%" src="images/terraform.svg"></code>
-</p>
