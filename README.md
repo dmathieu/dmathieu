@@ -1,9 +1,7 @@
 # Well, Hello There!
 
-I am a software engineer with a focus on backend, resilience and observability, currently working at @elastic.
-
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/github)
-[![Goodreads](https://img.shields.io/badge/-Goodreads-f2efe7?style=flat&logo=Goodreads&logoColor=black)](https://www.goodreads.com/user/show/48421744-damien)
+I am a software engineer with a focus on backend, resilience and observability,
+currently working at @elastic and contributing to @open-telemetry.
 
 Some of the technologies I work with are Go, Ruby, Kubernetes, OpenTelemetry. I
 am also a contributor to Open-Source.
